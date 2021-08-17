@@ -1,21 +1,20 @@
 
-
-**<Skills>**
-Java, Spring Framework 3 version, JSP, Lombok, Html, CSS, Java Scripts, 
-Jquery, JSTL, Ajax, Git, Mysql, Oracle 11g, Mybatis, Tomcat
-
-**<프로젝트>**
+**★ SKILLS**
  
- 프로젝트명: 베베샵 
- 주제: 반려동물 용품 쇼핑몰
- 개발 기간 : 2021.06.28. ~2021.08.02.(약 5주)
+    Java, Spring Framework 3 version, JSP, Lombok, Html, CSS, Java Scripts, 
+    Jquery, JSTL, Ajax, Git, Mysql, Oracle 11g, Mybatis, Tomcat
 
-인원 : backend, frontend 6명
+**★ PROJECT**
+ 
+    프로젝트명: 베베샵 
+    주제: 반려동물 용품 쇼핑몰
+    개발 기간 : 2021.06.28. ~2021.08.02.(약 5주)
+    인원 : backend, frontend 6명
   
-  **소셜로그인 api**
-  - Kakao, Google, Naver 소셜 api 사용하여 DB에 등록.
- 
-![image](https://user-images.githubusercontent.com/80886742/129671771-f366806c-2713-4a3d-a2a3-8a3728885786.png)
+**★ PROJECT DETAILS**  
+    
+    Socail Login API 사용
+    ![image](https://user-images.githubusercontent.com/80886742/129671771-f366806c-2713-4a3d-a2a3-8a3728885786.png)
 
 
   
