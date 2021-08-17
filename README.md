@@ -1,11 +1,11 @@
 
-**★ SKILLS**
+## **★ SKILLS**
  
     Java, Spring Framework 3 version, JSP, Lombok, Html, CSS, Java Scripts, 
     Jquery, JSTL, Ajax, Git, Mysql, Oracle 11g, Mybatis, Tomcat
 
 
-**★ PROJECT**
+## **★ PROJECT**
  
     프로젝트명: 베베샵 
     주제: 반려동물 용품 쇼핑몰
@@ -13,9 +13,11 @@
     인원 : backend, frontend 6명
   
 
-**★ PROJECT DETAILS**  
+## **★ PROJECT DETAILS**  
  
  ![image](https://user-images.githubusercontent.com/80886742/129671771-f366806c-2713-4a3d-a2a3-8a3728885786.png)
+ ![image](https://user-images.githubusercontent.com/80886742/129677301-3a57e612-367d-47ac-9786-a13b78dbc6be.png)
+
     
     <SOCIAL LOGIN>
     Kakao, Google, Naver API 적용
@@ -23,14 +25,17 @@
     
  
 ![image](https://user-images.githubusercontent.com/80886742/129668671-04dee719-87d4-47b9-ab9e-0da953ea201d.png)  
-    
+![image](https://user-images.githubusercontent.com/80886742/129676238-5a11c9d5-cdd4-4fbb-8094-d799698a73d3.png)
+
     <상품 상세 페이지>
-    Ajax 이용하여 비동기식으로 상품의 색상, 재고 수량 불러오기
+    Ajax 통신 이용하여 비동기식으로 상품의 색상, 재고 수량 불러오기
     상품명, 가격, 이미지 DB에서 불러오기
-    
+
     
 ![image](https://user-images.githubusercontent.com/80886742/129669198-c18504ab-1199-4d80-b99e-4e86732dc5e5.png)
 ![image](https://user-images.githubusercontent.com/80886742/129671582-947dc47f-a923-42f7-a47d-82032540bb9f.png)    
+![image](https://user-images.githubusercontent.com/80886742/129679321-554ba580-5689-4094-a19a-88520b4d5bfe.png)
+![image](https://user-images.githubusercontent.com/80886742/129679072-b8a9a1c5-07fb-4a09-b3bd-377544dd571c.png)
     
     <리뷰, 문의 탭>
     추가된 리뷰, 별점 실시간 반영하여 평균별점 나타냄
