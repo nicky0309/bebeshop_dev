@@ -1,6 +1,5 @@
 
 ## **★ SKILLS**
- 
     Java, Spring Framework 3 version, JSP, Lombok, Html, CSS, Java Scripts, 
     Jquery, JSTL, Ajax, Git, Mysql, Oracle 11g, Mybatis, Tomcat
 
@@ -23,7 +22,7 @@
     Kakao, Google, Naver API 적용
     DB에 사용자정보 저장하여 로그인 기능 처리
     
- 
+ ## 
 ![image](https://user-images.githubusercontent.com/80886742/129668671-04dee719-87d4-47b9-ab9e-0da953ea201d.png)  
 ![image](https://user-images.githubusercontent.com/80886742/129676238-5a11c9d5-cdd4-4fbb-8094-d799698a73d3.png)
 
@@ -32,6 +31,7 @@
     상품명, 가격, 이미지 DB에서 불러오기
 
     
+ ##    
 ![image](https://user-images.githubusercontent.com/80886742/129669198-c18504ab-1199-4d80-b99e-4e86732dc5e5.png)
 ![image](https://user-images.githubusercontent.com/80886742/129671582-947dc47f-a923-42f7-a47d-82032540bb9f.png)    
 ![image](https://user-images.githubusercontent.com/80886742/129679321-554ba580-5689-4094-a19a-88520b4d5bfe.png)
@@ -45,5 +45,7 @@
 
 
 
+## 
 
+# 감사합니다.
    
