@@ -47,5 +47,7 @@
 
 ## 
 
-# 감사합니다.
-   
+## **★ SCHEDULES AND USE CASE**
+
+![image](https://user-images.githubusercontent.com/80886742/129682142-52c847d3-cccf-4c50-afd0-ef5d17e394c6.png)
+
