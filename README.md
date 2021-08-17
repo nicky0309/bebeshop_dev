@@ -2,7 +2,7 @@
 ## **★ SKILLS**
     Java, Spring Framework 3 version, JSP, Lombok, Html, CSS, Java Scripts, 
     Jquery, JSTL, Ajax, Git, Mysql, Oracle 11g, Mybatis, Tomcat
-
+<br/>
 
 ## **★ PROJECT**
  
@@ -10,7 +10,7 @@
     주제: 반려동물 용품 쇼핑몰
     개발 기간 : 2021.06.28. ~2021.08.02.(약 5주)
     인원 : backend, frontend 6명
-  
+<br/>  
 
 ## **★ PROJECT DETAILS**  
  
@@ -47,7 +47,10 @@
 
 ## 
 
+<br/>
+
 ## **★ SCHEDULES AND USE CASE**
 
 ![image](https://user-images.githubusercontent.com/80886742/129682142-52c847d3-cccf-4c50-afd0-ef5d17e394c6.png)
 
+<br/>
