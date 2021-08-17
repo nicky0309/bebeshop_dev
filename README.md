@@ -11,8 +11,6 @@ Jquery, JSTL, Ajax, Git, Mysql, Oracle 11g, Mybatis, Tomcat
  개발 기간 : 2021.06.28. ~2021.08.02.(약 5주)
 
 인원 : backend, frontend 6명
-
-**ㅇㅇㅇ**
   
   **소셜로그인 api**
   - Kakao, Google, Naver 소셜 api 사용하여 DB에 등록.
