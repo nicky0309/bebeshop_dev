@@ -8,8 +8,8 @@ Jquery, JSTL, Ajax, Mysql, Oracle 11g, Mybatis, Tomcat
 
 1. 프로젝트
   반려동물 쇼핑몰 <Bebe Shop>
-  ![image](https://user-images.githubusercontent.com/80886742/129668324-ecf0bec9-3f60-4225-8245-5d9c4772674d.png)
+ 
+  **소셜로그인 api**
+  ![image](https://user-images.githubusercontent.com/80886742/129668447-745af480-517b-4e07-9b4d-7ca6280f1789.png)
 
-  
-  소셜로그인 api
 3. 
