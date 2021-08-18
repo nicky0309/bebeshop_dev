@@ -21,8 +21,9 @@
 <br/>
     
     <SOCIAL LOGIN>
-        - Kakao, Google, Naver API 적용
+        - Kakao, Google, Naver 로그인 API 적용
         - 최초 로그인시 DB에 사용자정보 저장하여 로그인
+        - 로그아웃 시 API 로그아웃 및 브라우저 세션 끊음
 
     
  ## 
