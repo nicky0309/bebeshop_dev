@@ -1,7 +1,7 @@
 
 ## **★ SKILLS**
-    Java, Spring Framework 3 version, JSP, Lombok, Html, CSS, Java Scripts, 
-    Jquery, JSTL, Ajax, Git, Mysql, Oracle 11g, Mybatis, Tomcat
+    Java, Spring Framework 3 version, JSP, Lombok, Html, CSS, Java Script, Jquery, 
+    JSTL, Bootstrap, Ajax, Git, Mysql, Oracle 11g, Mybatis, Apache Tomcat 8.5
 <br/>
 
 ## **★ PROJECT**
